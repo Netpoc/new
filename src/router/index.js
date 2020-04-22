@@ -11,7 +11,7 @@ export default new Router({
 
 routes: [
   {
-    path: '/',
+    path: '/app/',
     component: Home,
     name: 'Home',
     meta: {
