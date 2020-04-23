@@ -3,7 +3,6 @@ import Router from 'vue-router'
 import Home from '../views/Home.vue'
 
 
-
 Vue.use(Router)
 export default new Router({
   mode: 'history',
@@ -11,7 +10,7 @@ export default new Router({
 
 routes: [
   {
-    path: '/app/',
+    path: '/',
     component: Home,
     name: 'Home',
     meta: {

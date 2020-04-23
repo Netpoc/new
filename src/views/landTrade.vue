@@ -157,6 +157,8 @@ export default {
   methods: {
     sendMessage(){
 
+      
+
       const url = 'https://192.3.2.50:51100/contact/'
       axios.post(url, {
         email: this.email,

@@ -16,7 +16,7 @@
                     into real estate solutions, which simply translate parent buying landed 
                     property ahead of time for their kids because of the appreciative 
                     value landed property is known for.</p>
-                  <v-btn class="mt-3" rounded color="#DEC227" to="/Product">Get Started</v-btn>
+                  <v-btn class="mt-3" rounded color="#DEC227" to="/Kiddies">Get Started</v-btn>
                 </v-col>
                 <v-col cols="6">
                     <v-row align="center">
@@ -92,7 +92,7 @@
                           a life time, meaning endless income as long as the business contract 
                           exist.
                         </p>
-                        <v-btn class="mt-3" rounded color="#DEC227" to="/Products">Get a Quote</v-btn>
+                        <v-btn class="mt-3" rounded color="#DEC227" to="/Capital">Get a Quote</v-btn>
                       </v-col>
                       </v-row>
 
@@ -149,7 +149,7 @@
                           by investors would receive a certificate which can be used as a means of 
                           trade instrument and they get profit through the increase on the value of 
                           the land as it appreciates.</p>
-                        <v-btn class="mt-3" rounded color="#DEC227" to="/Products">Get a Quote</v-btn>
+                        <v-btn class="mt-3" rounded color="#DEC227" to="/landTrade">Get a Quote</v-btn>
                       </v-col>
                       </v-row>
 
